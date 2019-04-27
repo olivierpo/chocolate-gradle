@@ -35,7 +35,7 @@ dependencies {
     implementation 'com.github.fesh0r:fernflower:master'
     implementation 'com.google.code.gson:gson:2.8.5'
     implementation 'commons-io:commons-io:2.4'
-
+    implementation 'cuchaz:enigma:0.13.1.+:all'
 }
 
 publishing {
